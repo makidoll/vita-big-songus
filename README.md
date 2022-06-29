@@ -1,7 +1,7 @@
 # big songus 
 ## for the vita
 
-download version 04.20 here
+[download version 04.20 here](https://github.com/makifoxgirl/vita-big-songus/releases/tag/04.20)
 
 ## screenshots
 
